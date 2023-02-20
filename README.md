@@ -1,7 +1,7 @@
 # Sampling
 by Amrita Bhatia (Roll no. 102017017)
 
-Sampling is a statistical technique used to select a subset of a population. An ideal sample should have all the characteristics of the population it is derived from. Different sampling techniques can be used to obtain samples close to an ideal sample.
+Sampling is a statistical technique used to select a representative subset of a population. An ideal sample has all the characteristics of the population it is derived from. While an ideal sample is not feasible to derive, different sampling techniques can be used to obtain samples close to an ideal sample.
 
 This project applies various sampling techniques to different machine learning models and evaluates their performance using the accuracy metric.
 
